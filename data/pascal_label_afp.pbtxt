@@ -1,0 +1,54 @@
+item {
+  id: 1
+  name: 'gap'
+}
+
+item {
+  id: 2
+  name: 'overlap'
+}
+
+item {
+  id: 3
+  name: 'foreign'
+}
+
+item {
+  id: 4
+  name: 'puckering'
+}
+
+item {
+  id: 5
+  name: 'bridging'
+}
+
+item {
+  id: 6
+  name: 'missing'
+}
+
+item {
+  id: 7
+  name: 'tow defect'
+}
+
+item {
+  id: 8
+  name: 'scratch'
+}
+
+item {
+  id: 9
+  name: 'pit'
+}
+
+item {
+  id: 10
+  name: 'connect'
+}
+
+item {
+  id: 11
+  name: 'unknow'
+}
